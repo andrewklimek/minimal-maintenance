@@ -1,8 +1,9 @@
 <?php
 /*
 Plugin Name: Minimal Maintenance
+Plugin URI:  https://github.com/andrewklimek/minimal-maintenance
 Description: Shows a basic maintenance page with login to logged-out visitors.
-Version:     0.1
+Version:     1.1.0
 Author:      Andrew J Klimek
 Author URI:  https://readycat.net
 License:     GPL2
