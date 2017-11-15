@@ -5,7 +5,7 @@ Plugin URI:  https://github.com/andrewklimek/minimal-maintenance
 Description: Shows a basic maintenance page with login to logged-out visitors.
 Version:     1.1.0
 Author:      Andrew J Klimek
-Author URI:  https://readycat.net
+Author URI:  https://github.com/andrewklimek
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
