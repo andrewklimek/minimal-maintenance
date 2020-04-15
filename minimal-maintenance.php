@@ -22,7 +22,7 @@ Minimal Maintenance. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
 */
 
 add_action( 'template_redirect', function(){
-	if ( is_user_logged_in() ) return;	
+	if ( current_user_can( 'manage_options' ) ) return;
 	?>
 	<!DOCTYPE html>
 	<html>
